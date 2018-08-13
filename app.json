@@ -1,0 +1,5 @@
+{
+  "name": "Demo Example",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/om360dc/360Demo",
+}
